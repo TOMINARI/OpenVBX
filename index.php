@@ -150,7 +150,7 @@ else
 	{
 		$application_folder = 'application';
 	}
-
+	
 	define('APPPATH', BASEPATH.$application_folder.'/');
 }
 
